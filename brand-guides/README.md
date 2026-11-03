@@ -4,16 +4,16 @@
 
 크리에이터에게 보내는 **콘텐츠 가이드**와, 이를 만들 때 기준이 되는 **브랜드 문서**로 나뉩니다.
 
-**발송용 최신본은 [노션 페이지](https://app.notion.com/p/40d366536db081149a39e0a470702a70)입니다.** 타겟, 레퍼런스 링크, 참고 사진이 함께 들어 있습니다. 이 저장소의 `guide-*.md`는 텍스트 원본입니다.
+**발송용 최신본은 아래 표의 노션 페이지입니다.** 타겟, 레퍼런스 링크, 참고 사진이 함께 들어 있고, 로그인 없이 볼 수 있습니다. 이 저장소의 `guide-*.md`는 텍스트 원본입니다.
 
 ## 크리에이터 발송용 콘텐츠 가이드
 
-| 브랜드 | 채널 | 제품 | 파일 |
-|---|---|---|---|
-| 텐스 | 인스타그램 릴스 | 클린 베이스 듀오 세트 | [tense/guide-instagram-reels.md](tense/guide-instagram-reels.md) |
-| 텐스 | 틱톡 | 이미테이션 브로우 체인저 | [tense/guide-tiktok.md](tense/guide-tiktok.md) |
-| 케어드 | 네이버 블로그 체험단 | PDRN 오트밀크 세럼 | [kared/guide-naver-blog.md](kared/guide-naver-blog.md) |
-| 케어드 | 틱톡, 인스타그램 릴스 | PDRN 오트밀크 세럼 | [kared/guide-shortform.md](kared/guide-shortform.md) |
+| 브랜드 | 채널 | 제품 | 노션 (최신본) | 텍스트 원본 |
+|---|---|---|---|---|
+| 텐스 | 인스타그램 릴스 | 클린 베이스 듀오 세트 | [노션 보기](https://app.notion.com/p/40d366536db081678d96fe3f81c0f349) | [tense/guide-instagram-reels.md](tense/guide-instagram-reels.md) |
+| 텐스 | 틱톡 | 이미테이션 브로우 체인저 | [노션 보기](https://app.notion.com/p/40d366536db081f0aa6cdbfa1220db21) | [tense/guide-tiktok.md](tense/guide-tiktok.md) |
+| 케어드 | 네이버 블로그 체험단 | PDRN 오트밀크 세럼 | [노션 보기](https://app.notion.com/p/PDRN-40d366536db081c08b91ce1290a0b4b3) | [kared/guide-naver-blog.md](kared/guide-naver-blog.md) |
+| 케어드 | 틱톡, 인스타그램 릴스 | PDRN 오트밀크 세럼 | [노션 보기](https://app.notion.com/p/PDRN-40d366536db08177860ec12ee437b07a) | [kared/guide-shortform.md](kared/guide-shortform.md) |
 
 `[ ]` 항목을 채운 뒤 발송합니다. 다른 제품이나 캠페인은 파일을 복사해 1, 2, 3, 7절을 바꿉니다.
 
